@@ -12,7 +12,7 @@
     {
       title: "Latest Design",
       category: "Graphic Design",
-      image: "designs/design-1.jpg",
+      image: "designs/IMG_20261008_130729_118.jpg",
       description: "A recent design from my portfolio."
     }
     // Copy the object above and add a comma after the previous object
